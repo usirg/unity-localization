@@ -13,10 +13,10 @@ MonoBehaviour:
   m_Name: Localization-Assets-Shared
   m_EditorClassIdentifier: 
   m_GroupName: Localization-Assets-Shared
-  m_GUID: 5c9b5a596fd9e7d45a806d90e9177f09
+  m_GUID: ee3ad1d30ea2ce34b867205cb74e512a
   m_SerializeEntries:
-  - m_GUID: 6580046e17fe8f4498679be229a8ceb6
-    m_Address: Assets/Localization/Text Shared Data.asset
+  - m_GUID: 5418a702d0d70d04fbd21b8281b5d7f2
+    m_Address: Assets/Localization/Tables/Text Shared Data.asset
     m_ReadOnly: 1
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0

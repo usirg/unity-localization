@@ -12,10 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 468a46d0ae32c3544b7d98094e6448a9, type: 3}
   m_Name: AddressableAssetSettings
   m_EditorClassIdentifier: 
-  m_DefaultGroup: a8dd16dfc1807804c8d297c60b1e0d09
+  m_DefaultGroup: 6c532eb5c9eb68d48be21fd914601876
   m_currentHash:
     serializedVersion: 2
-    Hash: 9e01fbfa90c7b401c2aa91d95c0bd39b
+    Hash: 3108f19fbe1d5a7d8381ca2dbe74afb9
   m_OptimizeCatalogSize: 0
   m_BuildRemoteCatalog: 0
   m_CatalogRequestsTimeout: 0
@@ -59,53 +59,53 @@ MonoBehaviour:
   m_BuildAddressablesWithPlayerBuild: 0
   m_overridePlayerVersion: '[UnityEditor.PlayerSettings.bundleVersion]'
   m_GroupAssets:
-  - {fileID: 11400000, guid: 1cfa543ff20100d4c8d2fab463aee61b, type: 2}
-  - {fileID: 11400000, guid: 2fd7f29440c3cac45812f5fc75042c6c, type: 2}
-  - {fileID: 11400000, guid: 9807f946e7322504eb24b7d8fe4cc56f, type: 2}
+  - {fileID: 11400000, guid: e0321d01df96f2849b8f32b0756e1f5c, type: 2}
   - {fileID: 11400000, guid: b47362e455515064d96ef774fcdac77a, type: 2}
-  - {fileID: 11400000, guid: 09c4055152510734e9ea226b29fe6c96, type: 2}
+  - {fileID: 11400000, guid: 9807f946e7322504eb24b7d8fe4cc56f, type: 2}
+  - {fileID: 11400000, guid: aecf92abeb7064649a9894fefbeca855, type: 2}
+  - {fileID: 11400000, guid: 1cfa543ff20100d4c8d2fab463aee61b, type: 2}
   m_BuildSettings:
     m_LogResourceManagerExceptions: 1
     m_BundleBuildPath: Temp/com.unity.addressables/AssetBundles
   m_ProfileSettings:
     m_Profiles:
     - m_InheritedParent: 
-      m_Id: 3059c31e6032cad44bad440edeae974c
+      m_Id: 8c15f79f4b0dcd843aff37da7a651e1d
       m_ProfileName: Default
       m_Values:
-      - m_Id: 0a440f49bbed8ab45aa9856926e9061a
-        m_Value: '[UnityEditor.EditorUserBuildSettings.activeBuildTarget]'
-      - m_Id: 268b4f268dd310a43862ece5bf6ca40f
-        m_Value: '{UnityEngine.AddressableAssets.Addressables.RuntimePath}/[BuildTarget]'
-      - m_Id: 578fb3ca8f0ef2e4c9736e6011ec3c40
-        m_Value: <undefined>
-      - m_Id: 5c60f9006bff5c54ba0e4bdc38dcd6b7
-        m_Value: '[UnityEngine.AddressableAssets.Addressables.BuildPath]/[BuildTarget]'
-      - m_Id: e4ff47b27cb0e4c40af635058a001700
+      - m_Id: 074584e99ed5a82499fb1998957eab5a
         m_Value: 'ServerData/[BuildTarget]'
+      - m_Id: 138e940cdd926174ab375341d1d1bc33
+        m_Value: '{UnityEngine.AddressableAssets.Addressables.RuntimePath}/[BuildTarget]'
+      - m_Id: 399105d2aeee96a489efff9813892068
+        m_Value: '[UnityEngine.AddressableAssets.Addressables.BuildPath]/[BuildTarget]'
+      - m_Id: aa91d0434751f5b4ca85bb5729f44a61
+        m_Value: '[UnityEditor.EditorUserBuildSettings.activeBuildTarget]'
+      - m_Id: c4076cddfbd23544aaa94e5f627a18f7
+        m_Value: <undefined>
     m_ProfileEntryNames:
-    - m_Id: 0a440f49bbed8ab45aa9856926e9061a
-      m_Name: BuildTarget
+    - m_Id: 074584e99ed5a82499fb1998957eab5a
+      m_Name: Remote.BuildPath
       m_InlineUsage: 0
-    - m_Id: 268b4f268dd310a43862ece5bf6ca40f
+    - m_Id: 138e940cdd926174ab375341d1d1bc33
       m_Name: Local.LoadPath
       m_InlineUsage: 0
-    - m_Id: 578fb3ca8f0ef2e4c9736e6011ec3c40
-      m_Name: Remote.LoadPath
-      m_InlineUsage: 0
-    - m_Id: 5c60f9006bff5c54ba0e4bdc38dcd6b7
+    - m_Id: 399105d2aeee96a489efff9813892068
       m_Name: Local.BuildPath
       m_InlineUsage: 0
-    - m_Id: e4ff47b27cb0e4c40af635058a001700
-      m_Name: Remote.BuildPath
+    - m_Id: aa91d0434751f5b4ca85bb5729f44a61
+      m_Name: BuildTarget
+      m_InlineUsage: 0
+    - m_Id: c4076cddfbd23544aaa94e5f627a18f7
+      m_Name: Remote.LoadPath
       m_InlineUsage: 0
     m_ProfileVersion: 1
   m_LabelTable:
     m_LabelNames:
     - default
-    - Locale
     - Locale-en
     - Locale-fr
+    - Locale
   m_SchemaTemplates: []
   m_GroupTemplateObjects:
   - {fileID: 11400000, guid: dfadd87e6a9dcbe48bbfccec076ae25c, type: 2}
@@ -118,4 +118,4 @@ MonoBehaviour:
   - {fileID: 11400000, guid: e4c18665884601c4c98fa94ba305b4ca, type: 2}
   - {fileID: 11400000, guid: 7165504bf413a41499e33efd8eb8f7ba, type: 2}
   - {fileID: 11400000, guid: bcb04e6c1cf2773469aaa99ac8c1fae9, type: 2}
-  m_ActiveProfileId: 3059c31e6032cad44bad440edeae974c
+  m_ActiveProfileId: 8c15f79f4b0dcd843aff37da7a651e1d

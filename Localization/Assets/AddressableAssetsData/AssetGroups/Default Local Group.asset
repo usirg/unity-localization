@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Default Local Group
   m_EditorClassIdentifier: 
   m_GroupName: Default Local Group
-  m_GUID: a8dd16dfc1807804c8d297c60b1e0d09
+  m_GUID: 6c532eb5c9eb68d48be21fd914601876
   m_SerializeEntries: []
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: 54160cc9297d8f94abe955f2d0d34df6, type: 2}

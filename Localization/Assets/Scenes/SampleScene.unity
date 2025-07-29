@@ -623,9 +623,9 @@ MonoBehaviour:
   _text: {fileID: 1833480512}
   _localizedText:
     m_TableReference:
-      m_TableCollectionName: GUID:6580046e17fe8f4498679be229a8ceb6
+      m_TableCollectionName: GUID:5418a702d0d70d04fbd21b8281b5d7f2
     m_TableEntryReference:
-      m_KeyId: 499396780032
+      m_KeyId: 77890199552
       m_Key: 
     m_FallbackState: 0
     m_WaitForCompletion: 0
